@@ -1,127 +1,184 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Durvesh%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cybersecurity&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Durvesh%20Patil&fontSize=64&fontColor=00D9FF&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20%C3%97%20Cybersecurity&descAlignY=62&descSize=22&descColor=ffffff" width="100%" />
 
-<img src="assets/profile.png" width="160" alt="Durvesh Patil" />
+<img src="assets/profile.png" width="170" alt="Durvesh Patil" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Backend+Engineer+%7C+FastAPI+%26+Flask+%7C+REST+APIs;Secure+by+Design+%7C+JWT+%2B+RBAC+%2B+2FA;SOC+Analyst+%7C+Threat+Hunting+%7C+VAPT;Building+secure%2C+scalable+backend+systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=780&lines=I+build+backends+that+hold+up+under+attack;FastAPI+%7C+Flask+%7C+REST+APIs+%7C+MongoDB+%7C+AWS;SOC+Analyst+%7C+Threat+Hunter+%7C+VAPT;JWT+%2B+RBAC+%2B+2FA+%7C+Secure+by+design" alt="Typing SVG" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=durvesh55&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durvesh-patil-188514281)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durvesh.patil555@gmail.com)
+![Location](https://img.shields.io/badge/Pune%2C_India-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00D9FF)
+![Status](https://img.shields.io/badge/Open_to_work-2ea44f?style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=durvesh55&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
 
-### 👋 About Me
+## ⚡ Impact at a Glance
 
-I'm a final-year Computer Engineering student in Pune, India, and I work where **backend engineering meets cybersecurity**. I build authenticated, database-backed **REST APIs** and **AI-driven applications**, and I understand how they get attacked because I've worked as a **SOC analyst** and **penetration tester**. That means my backend work is secure by design, and my security work is built on solid engineering.
+<div align="center">
 
-- 🎓 B.E. Computer Engineering @ Sinhgad Institute of Technology and Science (SPPU), **CGPI 9.32 / 10**, graduating June 2027
-- ⚙️ **Backend:** Python, FastAPI, Flask, Node.js, REST APIs, JWT auth, MongoDB and MySQL
-- 🛡️ **Security:** SOC operations, threat hunting, detection engineering, VAPT, incident response
-- ☁️ **Cloud:** AWS (EC2, S3, IAM, RDS), Linux
-- 🛡️ Currently: **SOC Analyst Intern** at The Root Access Network (T.R.A.N.)
-- 💼 Open to: **Backend Engineer, Security Engineer, SOC / Security Analyst and VAPT** roles
+| 🎯 **384** | 🔎 **96** | 🚨 **150+** | 🧩 **10+** | 🌐 **30** | 🎓 **9.32** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| attacker-like activities analyzed | review cases investigated | alerts triaged in my SOC platform | MITRE ATT&CK techniques mapped | network paths validated | CGPI, B.E. Computer Eng. |
 
----
+| 🔌 **5+** | 🗃️ **4** | 🏢 **15+** | ✅ **10+** | 📨 **50+** | 🧪 **7** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| REST APIs shipped | MongoDB collections designed | targets in attack-surface analysis | security findings validated | phishing interactions analyzed | zones in my detection lab |
 
-### 🛠️ Tech Stack
+</div>
 
-#### ⚙️ Backend Engineering
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-0d1117?style=for-the-badge&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+## 👨‍💻 whoami
 
-#### 🗄️ Databases, Cloud and Systems
+```bash
+$ whoami
+durvesh_patil
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0d1117?style=for-the-badge&logo=cisco&logoColor=00D9FF)
+$ cat profile.json
+{
+  "role":      ["Backend Engineer", "Security Engineer", "SOC Analyst"],
+  "education": "B.E. Computer Engineering @ SPPU (June 2027), CGPI 9.32",
+  "currently": "SOC Analyst Intern @ T.R.A.N.",
+  "builds":    "authenticated, database-backed REST APIs and AI-driven apps",
+  "secures":   "everything I build, using JWT, RBAC, 2FA and audit logging",
+  "cloud":     ["AWS EC2", "S3", "IAM", "RDS"],
+  "hiring":    "open to Backend and Security roles"
+}
+```
 
-#### 🛡️ Cybersecurity
+> I work where **backend engineering meets cybersecurity**. I've worked as a SOC analyst and penetration tester, so I know how APIs get attacked, and I build mine to resist it.
 
-![SOC](https://img.shields.io/badge/SOC_Operations-0d1117?style=for-the-badge&logo=datadog&logoColor=00D9FF)
-![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-0d1117?style=for-the-badge&logo=target&logoColor=red)
-![Incident Response](https://img.shields.io/badge/Incident_Response-0d1117?style=for-the-badge&logoColor=white)
-![DFIR](https://img.shields.io/badge/Digital_Forensics-0d1117?style=for-the-badge&logoColor=white)
-![VAPT](https://img.shields.io/badge/VAPT-0d1117?style=for-the-badge&logoColor=white)
-![Web App Security](https://img.shields.io/badge/Web_Application_Security-0d1117?style=for-the-badge&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-0d1117?style=for-the-badge&logo=owasp&logoColor=white)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=for-the-badge&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-0d1117?style=for-the-badge&logoColor=white)
-![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-0d1117?style=for-the-badge&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma-0d1117?style=for-the-badge&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white)
-![STIX 2.1](https://img.shields.io/badge/STIX_2.1-0d1117?style=for-the-badge&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-0d1117?style=for-the-badge&logo=splunk&logoColor=white)
-![NIST](https://img.shields.io/badge/NIST-0d1117?style=for-the-badge&logoColor=white)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-0d1117?style=for-the-badge&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
 
-#### 🧰 Security Tools
+## 🛠️ Tech Arsenal
+
+### ⚙️ Backend and Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=py,fastapi,flask,nodejs,js,cpp,mongodb,mysql,aws,linux,git&perline=11" />
+</p>
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-0d1117?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazoniam&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0d1117?style=flat-square&logo=cisco&logoColor=00D9FF)
+
+### 🛡️ Cybersecurity
+
+![SOC](https://img.shields.io/badge/SOC_Operations-0d1117?style=flat-square&logo=datadog&logoColor=00D9FF)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-0d1117?style=flat-square&logo=target&logoColor=red)
+![Incident Response](https://img.shields.io/badge/Incident_Response-0d1117?style=flat-square)
+![DFIR](https://img.shields.io/badge/Digital_Forensics-0d1117?style=flat-square)
+![VAPT](https://img.shields.io/badge/VAPT-0d1117?style=flat-square)
+![Web App Security](https://img.shields.io/badge/Web_Application_Security-0d1117?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-0d1117?style=flat-square&logo=owasp&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=flat-square)
+![OSINT](https://img.shields.io/badge/OSINT-0d1117?style=flat-square)
+![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-0d1117?style=flat-square)
+![Sigma](https://img.shields.io/badge/Sigma-0d1117?style=flat-square)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=flat-square)
+![STIX 2.1](https://img.shields.io/badge/STIX_2.1-0d1117?style=flat-square)
+![SIEM](https://img.shields.io/badge/SIEM-0d1117?style=flat-square&logo=splunk&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST-0d1117?style=flat-square)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0d1117?style=flat-square)
+
+### 🧰 Security Tools
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=zap&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-B22222?style=for-the-badge&logoColor=white)
-![CyberChef](https://img.shields.io/badge/CyberChef-2F4F4F?style=for-the-badge&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-B22222?style=for-the-badge)
+![CyberChef](https://img.shields.io/badge/CyberChef-2F4F4F?style=for-the-badge)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-Both projects combine backend engineering with security.
+### 🛡️ AI SOC Analyst Assistant
+*An intelligent security incident analysis platform.*
 
-| Project | What it does | Backend | Security |
-|---|---|---|---|
-| 🛡️ **AI SOC Analyst Assistant** | A centralized SOC investigation platform for 150+ simulated alerts, covering triage, case assignment, investigation tracking and analyst history | 5+ REST APIs, role-based access, 4 MongoDB collections (audit logs, notes, timelines, searchable records) | Alert enrichment mapped to 10+ MITRE ATT&CK techniques, with severity and remediation guidance |
-| 🎣 **PhishNet AI** | A phishing email detection system that produces 0–100% risk scores, with a dashboard of 7-day trends and PDF/CSV reports | Authenticated REST APIs, scan history, user feedback, admin controls | OTP-based 2FA, API-key protection, password hashing, audit logging, role-based controls |
+A centralized SOC investigation platform for **150+ simulated alerts**, covering triage, case assignment, investigation tracking and analyst history.
 
----
+| ⚙️ Backend | 🛡️ Security |
+|---|---|
+| 5+ REST APIs for alert ingestion, auth, case management, incident tracking and reports | Alert enrichment mapped to **10+ MITRE ATT&CK techniques** |
+| Role-based access control | Severity assessment and remediation recommendations |
+| **4 MongoDB collections**: audit logs, analyst notes, incident timelines, searchable records | Full audit trail of analyst actions |
 
-### 💼 Experience
+### 🎣 PhishNet AI
+*A phishing email detection system.*
 
-**🔹 SOC Analyst Intern, The Root Access Network (T.R.A.N.)** · *Jun 2026 – Aug 2026 · Remote*
-- Analyzed authentication and security logs to identify suspicious activity, **IOCs** and potential incidents
-- Correlated authentication, DNS, web, firewall and endpoint telemetry across 3+ schema versions, building the normalization and data pipelines behind it
-- Hunted across **384 attacker-like activities** and **96 review cases**
-- Produced **STIX 2.1, Sigma and Suricata** detection content
-- Built a **7-zone network detection lab** (containerlab, FRRouting, nftables) and validated 30 network paths
-- Assessed JWT weaknesses, SQL injection, XXE and insecure password storage
-- Wrote risk assessments, incident reports and 30/60/90-day security roadmaps aligned with **NIST, ISO 27001 and MITRE ATT&CK**
+An end-to-end platform that scores email content from **0–100% risk**, with a dashboard of 7-day phishing trends and downloadable PDF/CSV reports.
 
-**🔹 Cybersecurity Intern, The Drop Organization** · *Jul 2025 – Aug 2025*
-- OSINT and attack-surface analysis across **15+ targets**
-- Validated **10+ security findings** through scanning and manual penetration testing
-- Analyzed 50+ simulated phishing interactions and wrote risk-prioritized vulnerability reports
+| ⚙️ Backend | 🛡️ Security |
+|---|---|
+| Authenticated REST APIs with scan history and user feedback | **OTP-based 2FA** and API-key protection |
+| Prediction history and admin controls | Password hashing, audit logging, role-based controls |
 
----
+### 🧠 How I design a secure backend
 
-### 🏅 Certifications
+```mermaid
+flowchart LR
+    A[Client Request] --> B[API Gateway<br/>FastAPI / Flask]
+    B --> C{Auth<br/>JWT / API key / OTP}
+    C -->|valid| D{RBAC<br/>role check}
+    C -->|invalid| X[Reject and log]
+    D -->|allowed| E[Business Logic<br/>and ML scoring]
+    D -->|denied| X
+    E --> F[(MongoDB / MySQL)]
+    E --> G[Audit Log]
+    G --> H[Dashboards<br/>and Reports]
+```
 
-- 🎓 Python and Machine Learning, **IIT Bombay** (Spoken Tutorial)
-- 🎓 C++ Training, **IIT Bombay** (Spoken Tutorial)
-- 🛡️ Defensive Cyber Security Course (DCSC), **The Drop Organization**
-- 💼 Cyber Job Simulation, **Deloitte Australia** (Forage)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
 
----
+## 💼 Experience
 
-### 📊 GitHub Stats
+### 🔹 SOC Analyst Intern · The Root Access Network (T.R.A.N.)
+*Jun 2026 – Aug 2026 · Remote*
+
+- 🔍 Analyzed authentication and security logs to identify suspicious activity, **IOCs** and potential incidents
+- 🧬 Correlated authentication, DNS, web, firewall and endpoint telemetry across **3+ schema versions**
+- 🎯 Hunted across **384 attacker-like activities** and **96 review cases**
+- 📜 Produced **STIX 2.1, Sigma and Suricata** detection content
+- 🌐 Built a **7-zone network detection lab** (containerlab, FRRouting, nftables) and validated **30 network paths**
+- 🧨 Assessed JWT weaknesses, SQL injection, XXE and insecure password storage
+- 📋 Wrote risk assessments, incident reports and **30/60/90-day security roadmaps** aligned with **NIST, ISO 27001 and MITRE ATT&CK**
+
+### 🔹 Cybersecurity Intern · The Drop Organization
+*Jul 2025 – Aug 2025*
+
+- 🛰️ OSINT and attack-surface analysis across **15+ targets**
+- 🔓 Validated **10+ security findings** through scanning and manual penetration testing
+- 🎣 Analyzed **50+ simulated phishing interactions** and wrote risk-prioritized vulnerability reports
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
+
+## 🏅 Education and Certifications
+
+| | |
+|---|---|
+| 🎓 **B.E. Computer Engineering** | Sinhgad Institute of Technology and Science (SPPU), **CGPI 9.32 / 10**, June 2027 |
+| 🐍 **Python and Machine Learning** | IIT Bombay (Spoken Tutorial) |
+| ⚙️ **C++ Training** | IIT Bombay (Spoken Tutorial) |
+| 🛡️ **Defensive Cyber Security Course (DCSC)** | The Drop Organization |
+| 💼 **Cyber Job Simulation** | Deloitte Australia (Forage) |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
+
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -130,24 +187,25 @@ Both projects combine backend engineering with security.
 
 <img src="https://streak-stats.demolab.com?user=durvesh55&theme=tokyonight&hide_border=true" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=durvesh55&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
 <img src="https://raw.githubusercontent.com/durvesh55/durvesh55/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
 
----
-
-### 📫 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%" />
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durvesh-patil-188514281)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durvesh.patil555@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/durvesh55)
+## 📫 Let's Build Something Secure
 
-<br/>
+I'm open to **Backend Engineer, Security Engineer, SOC Analyst and VAPT** roles.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durvesh-patil-188514281)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:durvesh.patil555@gmail.com)
 
 *"Good backend engineers build systems that work. Great ones build systems that hold up under attack."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" />
 
 </div>
