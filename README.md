@@ -12,13 +12,14 @@
 
 ### 👋 About Me
 
-I'm a final-year Computer Engineering student in Pune, India, focused on **cybersecurity, SOC operations, vulnerability assessment, incident response and security engineering**. My internships covered threat hunting, detection engineering, digital forensics and offensive security (OSINT, VAPT), and I try to work from real breach scenarios, not coursework simulations.
+I'm a final-year Computer Engineering student in Pune, India, focused on **cybersecurity, SOC operations, vulnerability assessment, incident response, and backend and AI-driven applications with secure REST APIs**. My internships covered threat hunting, detection engineering, digital forensics and offensive security (OSINT, VAPT), and I try to work from real breach scenarios, not coursework simulations.
 
 - 🎓 B.E. Computer Engineering @ Sinhgad Institute of Technology and Science (SPPU), **CGPI 9.32 / 10**, graduating June 2027
 - 🛡️ Currently: **SOC Analyst Intern** at The Root Access Network (T.R.A.N.)
 - 🔍 Into: threat hunting, MITRE ATT&CK mapping, Sigma / Suricata / STIX 2.1 detection content
 - 🧪 Building: security tools with Python, FastAPI and MongoDB
-- 💼 Open to: **SOC Analyst, Security Analyst, VAPT / Penetration Tester and Security Engineer** roles
+- ☁️ Cloud: AWS (EC2, S3, IAM, RDS)
+- 💼 Open to: **SOC Analyst, Security Analyst, VAPT / Penetration Tester, Security Engineer and Backend Developer** roles
 
 ---
 
@@ -32,6 +33,10 @@ I'm a final-year Computer Engineering student in Pune, India, focused on **cyber
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-0d1117?style=for-the-badge&logo=owasp&logoColor=white)
 ![DFIR](https://img.shields.io/badge/Digital_Forensics-0d1117?style=for-the-badge&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-0d1117?style=for-the-badge&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident_Response-0d1117?style=for-the-badge&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-0d1117?style=for-the-badge&logo=splunk&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST-0d1117?style=for-the-badge&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0d1117?style=for-the-badge&logoColor=white)
 
 **Security Tools**
 
@@ -53,8 +58,16 @@ I'm a final-year Computer Engineering student in Pune, India, focused on **cyber
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-**Systems**
+**Cloud and Systems**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -77,6 +90,8 @@ I'm a final-year Computer Engineering student in Pune, India, focused on **cyber
 - Correlated authentication, DNS, web, firewall and endpoint telemetry across 3+ schema versions
 - Hunted across **384 attacker-like activities** and **96 review cases**
 - Produced **STIX 2.1, Sigma and Suricata** detection content
+- Assessed JWT weaknesses, SQL injection, XXE and insecure password storage
+- Wrote risk assessments, incident reports and 30/60/90-day security roadmaps aligned with **NIST, ISO 27001 and MITRE ATT&CK**
 - Built a **7-zone network detection lab** (containerlab, FRRouting, nftables) and validated 30 network paths
 
 **🔹 Cybersecurity Intern, The Drop Organization** · *Jul 2025 – Aug 2025*
