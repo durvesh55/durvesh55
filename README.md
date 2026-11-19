@@ -34,6 +34,12 @@ I'm a final-year Computer Engineering student in Pune, India, focused on **cyber
 ![DFIR](https://img.shields.io/badge/Digital_Forensics-0d1117?style=for-the-badge&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-0d1117?style=for-the-badge&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-0d1117?style=for-the-badge&logoColor=white)
+![VAPT](https://img.shields.io/badge/VAPT-0d1117?style=for-the-badge&logoColor=white)
+![Web App Security](https://img.shields.io/badge/Web_Application_Security-0d1117?style=for-the-badge&logoColor=white)
+![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-0d1117?style=for-the-badge&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma-0d1117?style=for-the-badge&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white)
+![STIX 2.1](https://img.shields.io/badge/STIX_2.1-0d1117?style=for-the-badge&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-0d1117?style=for-the-badge&logo=splunk&logoColor=white)
 ![NIST](https://img.shields.io/badge/NIST-0d1117?style=for-the-badge&logoColor=white)
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-0d1117?style=for-the-badge&logoColor=white)
@@ -90,6 +96,7 @@ I'm a final-year Computer Engineering student in Pune, India, focused on **cyber
 - Correlated authentication, DNS, web, firewall and endpoint telemetry across 3+ schema versions
 - Hunted across **384 attacker-like activities** and **96 review cases**
 - Produced **STIX 2.1, Sigma and Suricata** detection content
+- Analyzed authentication and security logs to identify suspicious activity, **IOCs** and potential incidents
 - Assessed JWT weaknesses, SQL injection, XXE and insecure password storage
 - Wrote risk assessments, incident reports and 30/60/90-day security roadmaps aligned with **NIST, ISO 27001 and MITRE ATT&CK**
 - Built a **7-zone network detection lab** (containerlab, FRRouting, nftables) and validated 30 network paths
