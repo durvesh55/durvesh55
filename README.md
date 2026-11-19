@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Durvesh%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20SOC%20%7C%20Threat%20Hunting%20%7C%20VAPT&descAlignY=60&descSize=18" width="100%" />
 
+<img src="assets/profile.png" width="160" alt="Durvesh Patil" />
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=SOC+Analyst+%7C+Threat+Hunter;Detection+Engineering+%7C+Sigma+%26+Suricata;Penetration+Testing+%7C+OSINT+%7C+VAPT;Final-Year+Computer+Engineering+Student" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=durvesh55&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
