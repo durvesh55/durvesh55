@@ -37,39 +37,73 @@ I'm currently a **SOC Analyst Intern at The Root Access Network (T.R.A.N.)** and
 
 ## Tech Stack
 
-**Backend, Data and Cloud**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,js,fastapi,flask,nodejs,mongodb,mysql,aws,linux,git&perline=11" alt="Backend stack" />
+<img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F_BACKEND_ENGINEERING-0f2027?style=for-the-badge&labelColor=0f2027&color=00D9FF" />
 
-`REST APIs` `JWT Authentication` `RBAC` `SQL` `AWS EC2` `AWS S3` `AWS IAM` `AWS RDS` `Networking`
+<img src="https://skillicons.dev/icons?i=py,fastapi,flask,nodejs,js,cpp&theme=dark&perline=6" alt="Backend languages and frameworks" />
 
-**Security**
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-203a43?style=for-the-badge)
+![2FA](https://img.shields.io/badge/OTP_2FA-203a43?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![SOC](https://img.shields.io/badge/SOC_Operations-203a43?style=flat-square&logoColor=white)
-![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-203a43?style=flat-square)
-![Incident Response](https://img.shields.io/badge/Incident_Response-203a43?style=flat-square)
-![DFIR](https://img.shields.io/badge/Digital_Forensics-203a43?style=flat-square)
-![SIEM](https://img.shields.io/badge/SIEM-203a43?style=flat-square)
-![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-203a43?style=flat-square)
-![Sigma](https://img.shields.io/badge/Sigma-203a43?style=flat-square)
-![Suricata](https://img.shields.io/badge/Suricata-203a43?style=flat-square)
-![STIX](https://img.shields.io/badge/STIX_2.1-203a43?style=flat-square)
-![VAPT](https://img.shields.io/badge/VAPT-2c5364?style=flat-square)
-![Web App Security](https://img.shields.io/badge/Web_App_Security-2c5364?style=flat-square)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-2c5364?style=flat-square)
-![OSINT](https://img.shields.io/badge/OSINT-2c5364?style=flat-square)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-0f2027?style=flat-square)
-![NIST](https://img.shields.io/badge/NIST-0f2027?style=flat-square)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-0f2027?style=flat-square)
+<br/>
 
-**Tools**
+<img src="https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F_DATA_%26_CLOUD-0f2027?style=for-the-badge&labelColor=0f2027&color=FF9900" />
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=zap&logoColor=white)
-![Shodan](https://img.shields.io/badge/Shodan-B22222?style=flat-square)
-![CyberChef](https://img.shields.io/badge/CyberChef-2F4F4F?style=flat-square)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,linux,git,bash&theme=dark&perline=6" alt="Data and cloud" />
+
+![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
+![RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_BLUE_TEAM_%2F_SOC-0f2027?style=for-the-badge&labelColor=0f2027&color=00D9FF" />
+
+![SOC](https://img.shields.io/badge/SOC_Operations-00B8D9?style=for-the-badge&logo=datadog&logoColor=white)
+![Threat Hunting](https://img.shields.io/badge/Threat_Hunting-00B8D9?style=for-the-badge&logo=target&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident_Response-00B8D9?style=for-the-badge)
+![DFIR](https://img.shields.io/badge/Digital_Forensics-00B8D9?style=for-the-badge)
+![SIEM](https://img.shields.io/badge/SIEM-00B8D9?style=for-the-badge&logo=splunk&logoColor=white)
+![Detection Engineering](https://img.shields.io/badge/Detection_Engineering-00B8D9?style=for-the-badge)
+![Sigma](https://img.shields.io/badge/Sigma-00B8D9?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-00B8D9?style=for-the-badge)
+![STIX](https://img.shields.io/badge/STIX_2.1-00B8D9?style=for-the-badge)
+
+<br/>
+
+<img src="https://img.shields.io/badge/%E2%9A%94%EF%B8%8F_RED_TEAM_%2F_OFFENSIVE-0f2027?style=for-the-badge&labelColor=0f2027&color=E5484D" />
+
+![VAPT](https://img.shields.io/badge/VAPT-E5484D?style=for-the-badge)
+![Web App Security](https://img.shields.io/badge/Web_Application_Security-E5484D?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-E5484D?style=for-the-badge&logo=owasp&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-E5484D?style=for-the-badge)
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%A7%B0_SECURITY_TOOLS-0f2027?style=for-the-badge&labelColor=0f2027&color=FF6633" />
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=zap&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-B22222?style=for-the-badge)
+![CyberChef](https://img.shields.io/badge/CyberChef-2F4F4F?style=for-the-badge)
+
+<br/>
+
+<img src="https://img.shields.io/badge/%F0%9F%93%90_FRAMEWORKS_%26_STANDARDS-0f2027?style=for-the-badge&labelColor=0f2027&color=8E4EC6" />
+
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-8E4EC6?style=for-the-badge)
+![NIST](https://img.shields.io/badge/NIST-8E4EC6?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-8E4EC6?style=for-the-badge)
+
+</div>
 
 <br/>
 
